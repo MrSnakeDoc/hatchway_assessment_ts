@@ -99,7 +99,7 @@ yarn start:dev
 
 ## License
 
-Distributed under the GNU GENERAL PUBLIC LICENSE Version 3. See `LICENSE.txt` for more information.
+Distributed under the MIT LICENCE See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
