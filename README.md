@@ -105,6 +105,6 @@ Distributed under the MIT LICENCE See `LICENSE.txt` for more information.
 
 ## Contact
 
-MrSnakeDoc - mrsnakedoc@gmail.com
+MrSnakeDoc - mrsnakedoc@backenddev.mozmail.com
 
 <p align="right">(<a href="#top">back to top</a>)</p>
